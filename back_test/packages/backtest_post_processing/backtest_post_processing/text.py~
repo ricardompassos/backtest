@@ -1,0 +1,2 @@
+def joke():
+	return 'sem piada nenhuma'

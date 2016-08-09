@@ -1,0 +1,5 @@
+export DB_USER=PASS_DEV
+export DB_PASS=Develop-2015
+export DB_HOST=192.168.51.100
+export DB_DB=PASS_SYS
+

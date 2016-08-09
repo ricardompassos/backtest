@@ -1,0 +1,410 @@
+---- x ----
+Backtest Months: 23
+annual_return               95.86
+annual_volatility           17.00
+sharpe_ratio                -0.47
+max_drawdown                -1.00
+calmar_ratio                95.94
+sterling_calmar_ratio      107.81
+modified_burke_ratio       270.42
+hurst_index                  0.28
+stability_of_timeseries       NaN
+upside_risk                 11.49
+downside_risk               12.52
+omega_ratio                  0.93
+sortino_ratio               -0.64
+skew                        -0.11
+kurtosis                    -0.19
+bera_jarque                  1.84
+adjusted_sharpe_ratio       -0.47
+tracking_error              23.48
+information_ratio           -0.45
+alpha                       -7.97
+beta                        -0.01
+bull_beta                   -0.00
+bear_beta                   -0.05
+systematic_risk             -0.23
+specific_risk               16.98
+2-sigma returns daily     -2.182
+2-sigma returns weekly   -11.303
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+             99.92 1990-01-08  1990-01-16           NaT      NaN
+             50.83 1990-01-02  1990-01-03    1990-01-08        5
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+ average drawdown: 30.15%
+ average duration: 2
+
+
+---- x ----
+Backtest Months: 23
+annual_return               2.28
+annual_volatility          16.76
+sharpe_ratio               -0.03
+max_drawdown               -0.26
+calmar_ratio                8.92
+sterling_calmar_ratio       3.79
+modified_burke_ratio       20.78
+hurst_index                 0.30
+stability_of_timeseries      NaN
+upside_risk                12.04
+downside_risk              11.63
+omega_ratio                 1.00
+sortino_ratio              -0.04
+skew                        0.13
+kurtosis                    0.14
+bera_jarque                 1.86
+adjusted_sharpe_ratio      -0.03
+tracking_error             22.92
+information_ratio           1.01
+alpha                      -0.77
+beta                       -0.01
+bull_beta                  -0.04
+bear_beta                   0.02
+systematic_risk            -0.19
+specific_risk              16.74
+2-sigma returns daily    -2.122
+2-sigma returns weekly   -7.982
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+             25.53 1990-01-02  1990-01-03    1990-01-04        3
+             23.45 1990-01-04  1990-01-05    1990-01-08        3
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+ average drawdown: 9.80%
+ average duration: 2
+
+
+---- x ----
+Backtest Months: 47
+annual_return              -1.000000
+annual_volatility          15.890000
+sharpe_ratio                0.060000
+max_drawdown               -0.000000
+calmar_ratio                     NaN
+sterling_calmar_ratio      -1.870000
+modified_burke_ratio            -inf
+hurst_index                 0.270000
+stability_of_timeseries          NaN
+upside_risk                11.320000
+downside_risk              11.140000
+omega_ratio                 1.010000
+sortino_ratio               0.090000
+skew                       -0.000000
+kurtosis                    0.150000
+bera_jarque                 0.900000
+adjusted_sharpe_ratio       0.060000
+tracking_error             22.500000
+information_ratio          -0.280000
+alpha                       0.970000
+beta                        0.010000
+bull_beta                   0.040000
+bear_beta                   0.010000
+systematic_risk             0.100000
+specific_risk              15.880000
+2-sigma returns daily    -2.006
+2-sigma returns weekly   -6.450
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+ average drawdown: 0.00%
+ average duration: 1
+
+
+---- x ----
+Backtest Months: 47
+annual_return              -0.99
+annual_volatility          15.35
+sharpe_ratio                0.04
+max_drawdown               -0.15
+calmar_ratio               -6.44
+sterling_calmar_ratio      -2.96
+modified_burke_ratio      -20.36
+hurst_index                 0.27
+stability_of_timeseries      NaN
+upside_risk                10.80
+downside_risk              10.90
+omega_ratio                 1.01
+sortino_ratio               0.05
+skew                       -0.07
+kurtosis                    0.02
+bera_jarque                 0.81
+adjusted_sharpe_ratio       0.04
+tracking_error             21.44
+information_ratio          -0.31
+alpha                       0.40
+beta                        0.02
+bull_beta                   0.04
+bear_beta                  -0.02
+systematic_risk             0.37
+specific_risk              15.33
+2-sigma returns daily     -1.939
+2-sigma returns weekly   -10.021
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+             15.44 1990-01-01  1990-01-03           NaT      NaN
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+ average drawdown: 3.09%
+ average duration: 1
+
+
+---- x ----
+Backtest Months: 47
+annual_return              -1.00
+annual_volatility          16.37
+sharpe_ratio               -0.22
+max_drawdown               -1.00
+calmar_ratio               -1.00
+sterling_calmar_ratio      -2.27
+modified_burke_ratio       -3.16
+hurst_index                 0.28
+stability_of_timeseries      NaN
+upside_risk                11.57
+downside_risk              11.57
+omega_ratio                 0.97
+sortino_ratio              -0.31
+skew                        0.06
+kurtosis                    0.10
+bera_jarque                 1.00
+adjusted_sharpe_ratio      -0.22
+tracking_error             23.71
+information_ratio          -0.09
+alpha                      -3.68
+beta                       -0.07
+bull_beta                  -0.00
+bear_beta                  -0.02
+systematic_risk            -1.15
+specific_risk              16.32
+2-sigma returns daily    -2.085
+2-sigma returns weekly   -6.295
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+             99.96 1990-01-02  1990-01-18           NaT      NaN
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+ average drawdown: 19.99%
+ average duration: 1
+
+
+---- x ----
+Backtest Months: 47
+annual_return                      inf
+annual_volatility           245.050000
+sharpe_ratio                 -1.430000
+max_drawdown                 -0.000000
+calmar_ratio                       NaN
+sterling_calmar_ratio              inf
+modified_burke_ratio               inf
+hurst_index                   0.190000
+stability_of_timeseries            NaN
+upside_risk                 173.480000
+downside_risk               174.320000
+omega_ratio                   0.820000
+sortino_ratio                -2.010000
+skew                          0.340000
+kurtosis                     -1.170000
+bera_jarque                  76.590000
+adjusted_sharpe_ratio        -1.420000
+tracking_error              380.030000
+information_ratio            14.000000
+alpha                     -4894.240000
+beta                         -0.800000
+bull_beta                    -0.840000
+bear_beta                     0.240000
+systematic_risk            -144.430000
+specific_risk               197.870000
+2-sigma returns daily         -32.396
+2-sigma returns weekly   -5601291.815
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+                 0 1990-01-01  1990-01-01    1990-01-01        1
+ average drawdown: 0.00%
+ average duration: 1
+
+
+---- x ----
+Backtest Months: 47
+annual_return              233.81
+annual_volatility           16.23
+sharpe_ratio                 0.41
+max_drawdown                -0.85
+calmar_ratio               275.63
+sterling_calmar_ratio      402.90
+modified_burke_ratio       708.35
+hurst_index                  0.26
+stability_of_timeseries       NaN
+upside_risk                 11.57
+downside_risk               11.39
+omega_ratio                  1.07
+sortino_ratio                0.58
+skew                        -0.07
+kurtosis                    -0.30
+bera_jarque                  4.61
+adjusted_sharpe_ratio        0.41
+tracking_error              21.73
+information_ratio           -0.08
+alpha                        6.02
+beta                         0.07
+bull_beta                    0.02
+bear_beta                    0.05
+systematic_risk              1.07
+specific_risk               16.19
+2-sigma returns daily    -2.027
+2-sigma returns weekly   -9.093
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+             84.83 1990-01-02  1990-01-09    1990-01-16       11
+             60.82 1990-01-24  1990-01-29           NaT      NaN
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+ average drawdown: 29.13%
+ average duration: 4
+
+
+---- x ----
+Backtest Months: 2
+annual_return             -0.12
+annual_volatility          0.16
+sharpe_ratio              -0.68
+max_drawdown              -0.11
+calmar_ratio              -1.10
+sterling_calmar_ratio     -1.10
+modified_burke_ratio      -3.11
+hurst_index                0.37
+stability_of_timeseries    0.05
+upside_risk                0.12
+downside_risk              0.11
+omega_ratio                0.90
+sortino_ratio             -1.03
+skew                       0.52
+kurtosis                  -0.19
+bera_jarque                2.80
+adjusted_sharpe_ratio     -0.68
+tracking_error             0.22
+information_ratio         -0.65
+alpha                     -0.11
+beta                       0.13
+bull_beta                  0.23
+bear_beta                  0.03
+systematic_risk            0.02
+specific_risk              0.16
+2-sigma returns daily    -0.021
+2-sigma returns weekly   -0.047
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+             10.60 1990-02-15  1990-03-23           NaT      NaN
+              4.44 1990-01-12  1990-01-23    1990-01-26       11
+              1.93 1990-01-31  1990-02-02    1990-02-05        4
+              1.18 1990-01-04  1990-01-09    1990-01-10        5
+              1.11 1990-02-05  1990-02-06    1990-02-09        5
+ average drawdown: 3.85%
+ average duration: 6
+
+
+---- x ----
+Backtest Months: 2
+annual_return              0.09
+annual_volatility          0.13
+sharpe_ratio               0.76
+max_drawdown              -0.06
+calmar_ratio               1.47
+sterling_calmar_ratio      1.47
+modified_burke_ratio       4.61
+hurst_index                0.36
+stability_of_timeseries   -0.41
+upside_risk                0.10
+downside_risk              0.08
+omega_ratio                1.13
+sortino_ratio              1.16
+skew                       0.24
+kurtosis                  -0.31
+bera_jarque                0.84
+adjusted_sharpe_ratio      0.76
+tracking_error             0.20
+information_ratio         -1.77
+alpha                      0.11
+beta                      -0.02
+bull_beta                 -0.11
+bear_beta                 -0.06
+systematic_risk           -0.00
+specific_risk              0.13
+2-sigma returns daily    -0.016
+2-sigma returns weekly   -0.031
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+              6.40 1990-01-15  1990-02-23           NaT      NaN
+              0.83 1990-01-01  1990-01-02    1990-01-04        4
+              0.06 1990-01-11  1990-01-12    1990-01-15        3
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+              0.00 1990-01-01  1990-01-01    1990-01-01        1
+ average drawdown: 1.46%
+ average duration: 2
+
+
+---- x ----
+Backtest Months: 47
+annual_return              0.25
+annual_volatility          0.16
+sharpe_ratio               1.43
+max_drawdown              -0.23
+calmar_ratio               1.09
+sterling_calmar_ratio      2.08
+modified_burke_ratio       2.64
+hurst_index                0.28
+stability_of_timeseries    0.86
+upside_risk                0.12
+downside_risk              0.11
+omega_ratio                1.26
+sortino_ratio              2.17
+skew                      -0.05
+kurtosis                   0.28
+bera_jarque                3.77
+adjusted_sharpe_ratio      1.43
+tracking_error             0.23
+information_ratio          1.37
+alpha                      0.23
+beta                       0.00
+bull_beta                  0.00
+bear_beta                 -0.03
+systematic_risk            0.00
+specific_risk              0.16
+2-sigma returns daily    -0.020
+2-sigma returns weekly   -0.039
+
+Worst Drawdown Periods
+ net drawdown in %  peak date valley date recovery date duration
+             22.64 1991-11-18  1992-04-06    1993-05-26      398
+             12.75 1991-03-18  1991-05-13    1991-09-24      137
+              6.77 1990-09-27  1990-10-18    1990-11-14       35
+              6.22 1993-07-02  1993-07-28    1993-09-20       57
+              5.93 1991-10-03  1991-10-16    1991-10-28       18
+ average drawdown: 10.86%
+ average duration: 129
+
+

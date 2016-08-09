@@ -1,0 +1,17 @@
+import ts_metrics
+import tears
+
+# returns : get returns of strategy
+
+benchmark_rets = utils.default_returns_func()
+returns, benchmark_rets = returns.align(benchmark_rets,  join='inner')
+
+print ts_metrics.perf_stats(returns, benchmark_rets)
+print "#############"
+print ts_metrics.perf_stats(returns, benchmark_rets, mode = 'per_year')
+print "#############"
+print ts_metrics.perf_stats(returns,benchmark_rets, mode = 'rolling')
+print "#############"
+
+#tears.create_full_tear_sheet(returns = returns,benchmark_rets = benchmark_rets, filename = 'ola.txt') # benchmark_rets, filename are optional
+
